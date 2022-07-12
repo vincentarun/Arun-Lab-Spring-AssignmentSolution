@@ -6,5 +6,7 @@
 <body>
 	<h1>HTTP Status 403 - Access is denied</h1>
 	<h2>${msg}</h2>
+	<hr>
+		<a href="/StudentManagement/students/list">Back to Students List</a>
 </body>
 </html>
